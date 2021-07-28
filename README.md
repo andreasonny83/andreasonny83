@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**andreasonny83/andreasonny83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## &#x1f4c8; GitHub Stats
 
-Here are some ideas to get you started:
+<a href="https://github.com/andreasonny83/andreasonny83">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasonny83&show_icons=true&line_height=27&count_private=true&theme=radical" alt="andreasonny83's GitHub Stats" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/andreasonny83/andreasonny83">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreasonny83&show_icons=true&line_height=27&count_private=true&theme=radical" alt="andreasonny83's GitHub Stats" />
+</a>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=andreasonny83&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
